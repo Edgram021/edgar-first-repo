@@ -1,2 +1,2 @@
 # edgar-first-repo
-Practice account for learning gti
+Practice account for learning GIT
